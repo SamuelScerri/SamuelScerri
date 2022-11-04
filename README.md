@@ -4,5 +4,6 @@
 - 🔭 I’m currently working on a Custom Software Renderer written in ANSI C
 - 🌱 I’m currently learning Bachelor of Science (Honours) in Multimedia Software Development at MCAST
 - 📫 How to reach me: samuelscerri533@gmail.com
+- 🎮 Favorite game: Self explanatory based off my profile picture 🙂
 
 #### Cheers! 😊
